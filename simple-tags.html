@@ -1,0 +1,17 @@
+<template name="TagsInput">
+	<div class="form-group">
+		<label for="{{id}}">{{placeholder}}</label>
+		<div class="form-control tags-field" style="width:100%;">
+				{{#each vals}}
+					{{> Tag}}
+				{{/each}}
+			<div class="input-container">
+        <input type="text" class="tags-input {{class}}" id="{{id}}" placeholder="{{placeholder}}" autocomplete="off" spellcheck="false" tabindex="0" dir="auto">
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="Tag">
+	<div class="tag"><span class="tag-label">{{this}}</span><a href="#" class="close" tabindex="-1">×</a></div>
+</template>
