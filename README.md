@@ -1,6 +1,6 @@
-#Simple Tags
+# Simple Tags [![Build Status](https://travis-ci.org/bompi88/simple-tags.svg)](https://travis-ci.org/bompi88/simple-tags)
 
-Adds tag input for Meteor, with autocomplete (typeahead).
+Adds bootstrap 3 tag input for Meteor, with autocomplete (typeahead).
 
 ### Installation
 
