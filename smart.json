@@ -3,7 +3,7 @@
   "description": "Adds bootstrap 3 tag input for Meteor, with autocomplete (typeahead)",
   "homepage": "https://github.com/bompi88/simple-tags",
   "author": "Bjoern Braathen <bjorbrat88@gmail.com> (https://github.com/bompi88)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/bompi88/simple-tags.git",
   "packages": {
   }
