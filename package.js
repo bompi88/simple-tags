@@ -1,6 +1,6 @@
 Package.describe({
   name: "simple-tags",
-	summary: "Simple Tags - Adds tag input for Meteor, with autocomplete (typeahead)"
+	summary: "Adds bootstrap 3 tag input for Meteor, with autocomplete (typeahead)"
 });
 
 Package.on_use(function (api, where) {

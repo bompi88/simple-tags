@@ -1,5 +1,5 @@
 /**
- *  Simple Tags: An easy way to add tag input for Meteor, with autocomplete (typeahead).
+ *  Simple Tags: Adds bootstrap 3 tag input for Meteor, with autocomplete (typeahead).
  */
 
 var SimpleTags = new Meteor.Collection('simpletags');
