@@ -2,7 +2,7 @@
   "name": "simple-tags",
   "description": "Simple Tags - Adds tag input for Meteor, with autocomplete (typeahead)",
   "homepage": "https://github.com/bompi88/simple-tags",
-  "author": "Bjørn Bråthen <bjorbrat88@gmail.com> (https://github.com/bompi88)",
+  "author": "Bjoern Braathen <bjorbrat88@gmail.com> (https://github.com/bompi88)",
   "version": "0.0.2",
   "git": "https://github.com/bompi88/simple-tags.git",
   "packages": {
